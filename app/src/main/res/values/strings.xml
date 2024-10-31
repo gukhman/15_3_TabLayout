@@ -2,13 +2,4 @@
     <string name="app_name">15_3_tablayout</string>
     <string name="toolbarTitle">Интернет – слайдер</string>
     <string name="exit">Выход</string>
-    <string name="Hello">Приветствую, хозяин!</string>
-    <string name="loginEditText_hint">Логин</string>
-    <string name="passwordEditText_hint">Пароль</string>
-    <string name="loginButton_text">Войти</string>
-    <string name="registerButton_text">Зарегистрироваться</string>
-    <string name="titleTextView_hint">Заголовок</string>
-    <string name="descriptionTextView_hint">Описание</string>
-    <string name="startButton_text">Начать</string>
-
 </resources>
